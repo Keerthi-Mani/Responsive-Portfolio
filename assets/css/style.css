@@ -262,11 +262,12 @@ body {
   }
   .container {
     width: 100%;
+    
   }
   .work {
     position: relative;
     margin-left: 50px;
-
+    width: 400px;
   }
 }
 
@@ -303,7 +304,14 @@ body {
   }
   .container {
     width: 100%;
+    
   }
+  .work {
+    position: relative;
+    margin-left: 50px;
+    width: 400px;
+  }
+  
 } 
 
 /* Large devices (laptops/desktops, 960px and up) */
@@ -334,10 +342,13 @@ body {
   }
   #main-container {
     width:100%;
+    
   }
   .container {
     width: 100%;
-    
+  
   }
+  
+  
 } 
 
