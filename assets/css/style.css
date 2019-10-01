@@ -237,12 +237,11 @@ body {
 }
   #masthead {
     width:100%;
-    
    background-image: url("../images/TajMahal.jpg");
   }
   
   .main-section {
-    width: 100%;  
+    width: 100%;
     margin: 0 auto;
   background-image:url("../images/titles.jpg");
     
@@ -266,7 +265,7 @@ body {
   }
   .work {
     position: relative;
-    margin-left: 50px;
+    margin-left: 20px;
     width: 400px;
   }
 }
@@ -308,8 +307,8 @@ body {
   }
   .work {
     position: relative;
-    margin-left: 50px;
-    width: 400px;
+    margin-left: 20px;
+    width: 240px;
   }
   
 } 
